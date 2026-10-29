@@ -50,4 +50,5 @@ Stakeholder analysis & power-interest mapping · RACI matrix · AS-IS/TO-BE swim
 ## Files
 - [SecureSure_CRM_Implementation_BA_Portfolio_Report.docx](./SecureSure_CRM_Implementation_BA_Portfolio_Report.docx) — full business analysis portfolio report
 - [SecureSure_Business_Requirements_Document.docx](./SecureSure_Business_Requirements_Document.docx) — formal Business Requirements Document (BRD)
-- [SecureSure_CRM_Process_Maps.drawio](./SecureSure_CRM_Process_Maps.drawio) — editable AS-IS / TO-BE swimlane diagrams (open at [app.diagrams.net](https://app.diagrams.net))
+- **[▶ View the AS-IS / TO-BE swimlane diagrams online](https://viewer.diagrams.net/#Uhttps%3A%2F%2Fraw.githubusercontent.com%2FKennystfyn%2Fsecuresure-crm-implementation%2Fmain%2FSecureSure_CRM_Process_Maps.drawio)** — opens in your browser, no download needed
+- [SecureSure_CRM_Process_Maps.drawio](./SecureSure_CRM_Process_Maps.drawio) — editable source file (open at [app.diagrams.net](https://app.diagrams.net))
